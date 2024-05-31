@@ -1,6 +1,6 @@
 **# CarSalesDataAnalysis**
 
-This project is implemented for  data analysis and visualization on a dataset containing information about car sales. 
+This project is a simple implementation for  data analysis and visualization on a dataset containing information about car sales. 
 The dataset included details such as **brand, model, year, sales quantity,** and **price** for various car models.
 
 **Accomplishments**
